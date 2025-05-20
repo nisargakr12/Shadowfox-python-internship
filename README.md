@@ -17,4 +17,12 @@ Each task is organized into its own folder. Below is a list of tasks completed s
   - Formatted output using `format()` function  
   - Calculate area of a pond and total water content  
   - Calculate speed in meters per second (no decimals)
+
+- **task-3**: List
+  - Calculated the number of members in the Justice League.
+  - Added new members Batgirl and Nightwing.
+  - Moved Wonder Woman to the beginning as the leader.
+  - Separated Aquaman and Flash by placing Green Lantern between them.
+  - Replaced the existing team with a new Justice League roster.
+  - Sorted the list alphabetically and identified the new leader.
  
