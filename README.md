@@ -25,4 +25,10 @@ Each task is organized into its own folder. Below is a list of tasks completed s
   - Separated Aquaman and Flash by placing Green Lantern between them.
   - Replaced the existing team with a new Justice League roster.
   - Sorted the list alphabetically and identified the new leader.
+
+- **task-4**: If Condition
+  - BMI Calculator using user input  
+  - City to Country mapping using conditional statements  
+  - Check if two cities belong to the same country
+
  
