@@ -40,5 +40,15 @@ Each task is organized into its own folder. Below is a list of tasks completed s
   - Identified who spent more.
   - Found the category with the largest difference in spending.
 
+## How to Run
+
+To run any of the tasks:
+
+1. Navigate to the respective task folder in your terminal.
+2. Run the Python file using:
+
+```bash
+python3 filename.py
+
 
  
