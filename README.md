@@ -31,4 +31,14 @@ Each task is organized into its own folder. Below is a list of tasks completed s
   - City to Country mapping using conditional statements  
   - Check if two cities belong to the same country
 
+- **task-5**
+  This task demonstrates working with:
+
+  - Lists and Tuples: Creating a list of friends' names and converting them into a list of tuples with name lengths.
+  - Dictionaries: Comparing expenses between you and your partner.
+  - Calculated total expenses for each.
+  - Identified who spent more.
+  - Found the category with the largest difference in spending.
+
+
  
