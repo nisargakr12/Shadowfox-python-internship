@@ -94,7 +94,7 @@ To build an interactive word-guessing game using Python that:
 
 ### Technologies Used
 - Python 3.x  
-- Standard libraries: `random`, `sys`  
+- Standard libraries: `random` 
 
 
 
