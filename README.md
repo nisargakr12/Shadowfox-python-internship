@@ -44,7 +44,7 @@ Each task is organized into its own folder. Below is a list of tasks completed s
 
 # Intermediate Level Tasks:
 
-## Project: Web Scrapper
+## Task 1: Web Scrapper
 
 This project involves scraping book information from the website [Books to Scrape](http://books.toscrape.com).
 
@@ -72,8 +72,31 @@ This project involves scraping book information from the website [Books to Scrap
 - The script scrapes book data from all 50 pages.
 - The data is saved automatically in `books_data.csv` in the project directory.
 
+## Task 2: Hangman Game
 
----
+### Objective
+To build an interactive word-guessing game using Python that:
+- Provides a fun and challenging experience
+- Demonstrates the use of loops, conditionals, data structures, and functions
+- Tracks scores and game progress across multiple rounds
+- Reinforces concepts such as user input handling, game state management, and error handling
+
+### Key Features
+- Visual hangman stages that update with each incorrect guess  
+- Word hints to assist the player in guessing  
+- Input validation to ensure only valid, new guesses are accepted  
+- Scoring system:
+  - +10 points per correct guess  
+  - -5 points per wrong guess  
+- Game automatically progresses to the next round without asking  
+- Tracks total score through all rounds  
+- Graceful exit (using `Ctrl+C`) that displays the final score  
+
+### Technologies Used
+- Python 3.x  
+- Standard libraries: `random`, `sys`  
+
+
 
 
 
