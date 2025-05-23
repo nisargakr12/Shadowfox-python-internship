@@ -4,7 +4,7 @@ This repository contains my code submissions for the Shadowfox Python Developmen
 
 ## Overview
 
-**Beginner Level tasks:**
+# Beginner Level tasks:
 
 Each task is organized into its own folder. Below is a list of tasks completed so far:
 
@@ -40,15 +40,41 @@ Each task is organized into its own folder. Below is a list of tasks completed s
   - Identified who spent more.
   - Found the category with the largest difference in spending.
 
-## How to Run
-
-To run any of the tasks:
-
-1. Navigate to the respective task folder in your terminal.
-2. Run the Python file using:
-
-```bash
-python3 filename.py
 
 
- 
+# Intermediate Level Tasks:
+
+## Project: Web Scrapper
+
+This project involves scraping book information from the website [Books to Scrape](http://books.toscrape.com).
+
+### Objective
+- Extract book details including:
+  - Title
+  - Price 
+  - Rating 
+- Save the extracted data into a CSV file named `books_data.csv`.
+
+### Technologies Used
+- Python 3
+- Requests library (to send HTTP requests)
+- BeautifulSoup4 (to parse HTML content)
+- CSV module (to save data)
+
+### How It Works
+1. The script loops through 50 pages of the website.
+2. For each book on a page, it extracts the title, price, and rating.
+3. Converts the price from GBP (£) to INR (₹) using a fixed exchange rate.
+4. Stores all collected data in a CSV file for easy access and analysis.
+
+### Usage
+- Run the Python script.
+- The script scrapes book data from all 50 pages.
+- The data is saved automatically in `books_data.csv` in the project directory.
+
+
+---
+
+
+
+
