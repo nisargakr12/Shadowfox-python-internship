@@ -94,7 +94,34 @@ To build an interactive word-guessing game using Python that:
 
 ### Technologies Used
 - Python 3.x  
-- Standard libraries: `random` 
+- Standard libraries: `random`
+
+# Advanced Level Task:
+
+## Netflix Data Analysis Project
+
+This project analyzes Netflix’s content library using Python. It includes data cleaning, exploratory data analysis (EDA), and visualization to uncover trends in genres, countries, and ratings.
+
+## Dataset
+The dataset contains information about Netflix titles, including type, genre, release year, and more.
+
+## Key Insights
+- Drama and documentaries are the most popular genres.
+- Certain countries have more diverse content.
+- Movies tend to be shorter in duration compared to TV shows.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## How to Run
+Open the notebook `Netflix_Data_Analysis.ipynb` in JupyterLab or Jupyter Notebook.
+
+
+
 
 
 
